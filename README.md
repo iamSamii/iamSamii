@@ -19,8 +19,7 @@
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=<iamSamii>&theme=radical)
 
-## 🐍 Watch the Snake Eat My Contributions
-![Snake animation](https://github.com/<iamSamii>/<k8's>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<iamSamii>/<snk>/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="0"/>
 
