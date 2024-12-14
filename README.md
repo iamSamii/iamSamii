@@ -19,11 +19,9 @@
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=<iamSamii>&theme=radical)
 
-![Snake animation](https://github.com/<iamSamii>/<snk>/blob/output/github-contribution-grid-snake.svg)
+<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="0"/>
-
-
+<img align="left" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYzcTk0bDFwaXl0cGJrbnBqZzEweTNleDV4Zm1rOWF5YTN3bHl4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ntdy5Ban1dIY/giphy.gif" width="300"/>
 
 
 
