@@ -1,5 +1,10 @@
+
 # 👋 Hello! I'm AbdusSami
-I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, automation, and containerization.
+- I'm an aspiring **DevOps Engineer** 
+- 🌱 Aspiring **DevOps Engineer**
+- 🛠️ Working with **AWS**, **Docker**, **Kubernetes**, **Terraform**
+- 🔭 Passionate about cloud computing, automation, and containerization.
+- 🌐 Check out my [portfolio](https://your-portfolio-link.com)
 
 ## 🚀 Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -9,10 +14,15 @@ I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, aut
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+✨ Learning | 🛠️ Building | 🚀 Deploying
+
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=<iamSamii>&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=<iamSamii>&color=blue&style=flat)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+
+
+
 
 
 
