@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm AbdusSami
 I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, automation, and containerization.
 
 ## 🚀 Tools & Technologies
@@ -12,7 +12,7 @@ I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, aut
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=<iamSamii>&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=<your-username>&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=<iamSamii>&color=blue&style=flat)
 
 
 
