@@ -1,7 +1,6 @@
 # 👋 Hello! I'm [Your Name]
 I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, automation, and containerization.
 
-
 ## 🚀 Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -10,9 +9,11 @@ I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, aut
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-
-
+## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=<iamSamii>&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=<your-username>&color=blue&style=flat)
+
 
 
 
