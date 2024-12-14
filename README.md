@@ -4,6 +4,4 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=<iamSamii>&theme=radical)
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+
