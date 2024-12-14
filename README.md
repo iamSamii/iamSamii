@@ -1,3 +1,5 @@
+# 👋 Hello! I'm [Your Name]
+I'm an aspiring **DevOps Engineer** ♾️ passionate about cloud computing, automation, and containerization.
 
 
 ## 🚀 Tools & Technologies
